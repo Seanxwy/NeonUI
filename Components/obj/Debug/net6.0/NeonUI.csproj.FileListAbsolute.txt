@@ -1,0 +1,16 @@
+D:\source\NeonUI\Components\obj\Debug\net6.0\NeonUI.csproj.AssemblyReference.cache
+D:\source\NeonUI\Components\obj\Debug\net6.0\NeonUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\NeonUI\Components\obj\Debug\net6.0\NeonUI.AssemblyInfoInputs.cache
+D:\source\NeonUI\Components\obj\Debug\net6.0\NeonUI.AssemblyInfo.cs
+D:\source\NeonUI\Components\obj\Debug\net6.0\NeonUI.csproj.CoreCompileInputs.cache
+D:\source\NeonUI\Components\bin\Debug\net6.0\NeonUI.staticwebassets.runtime.json
+D:\source\NeonUI\Components\bin\Debug\net6.0\NeonUI.deps.json
+D:\source\NeonUI\Components\bin\Debug\net6.0\NeonUI.dll
+D:\source\NeonUI\Components\bin\Debug\net6.0\ref\NeonUI.dll
+D:\source\NeonUI\Components\bin\Debug\net6.0\NeonUI.pdb
+D:\source\NeonUI\Components\obj\Debug\net6.0\staticwebassets.build.json
+D:\source\NeonUI\Components\obj\Debug\net6.0\staticwebassets.development.json
+D:\source\NeonUI\Components\obj\Debug\net6.0\scopedcss\bundle\NeonUI.styles.css
+D:\source\NeonUI\Components\obj\Debug\net6.0\NeonUI.dll
+D:\source\NeonUI\Components\obj\Debug\net6.0\ref\NeonUI.dll
+D:\source\NeonUI\Components\obj\Debug\net6.0\NeonUI.pdb
